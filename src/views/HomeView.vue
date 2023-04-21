@@ -3,7 +3,5 @@ import TheWelcome from '@/components/TheWelcome.vue'
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+ <span>'中软之光'</span>
 </template>
